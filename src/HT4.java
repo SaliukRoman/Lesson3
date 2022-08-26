@@ -8,7 +8,7 @@ public class HT4 {
         }
         for (int i = 0; i < Fib.length; ++i) {
             System.out.println(Fib[i]);
-            System.out.println(Fib[i]);
+
         }
     }
 }
