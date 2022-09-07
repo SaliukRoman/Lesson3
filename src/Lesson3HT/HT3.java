@@ -8,6 +8,7 @@ public class HT3 {
         Scanner scanner = new Scanner(System.in);
         int day = scanner.nextInt();
 
+
         switch (day){
             case 1:
                 System.out.println("Понеділок робота");

@@ -1,5 +1,6 @@
 package Lesson3HT;
 
+
 public class HTask3 {
     public static void main(String[] args) {
         int[] arrRandom = {11, 22, 32, 5, 87, 99, };

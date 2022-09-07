@@ -3,6 +3,7 @@ package Lesson1HT;
 import java.util.Scanner;
 
 public class HT1 {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int radius = scanner.nextInt();
