@@ -1,3 +1,5 @@
+package HomaTask4;
+
 public class HT4 {
     public static void main(String[] args) {
         int[] Fib = new int[10];
@@ -10,5 +12,6 @@ public class HT4 {
             System.out.println(Fib[i]);
 
         }
+
     }
 }
